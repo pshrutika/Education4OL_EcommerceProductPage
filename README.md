@@ -40,22 +40,6 @@ The main challenge is to build out this E-commerce product page and get it looki
 
 <br> <p>** I do not have access to the Figma sketch so the design is not pixel perfect.</p>
 
-## Built with 
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-- JavaScript
-- SessionStorage
 
-## Useful resources
 
-- <a href="https://www.frontendmentor.io/">Frontend Mentor</a>
-- <a href="https://developer.mozilla.org/es/docs/Web/API/Window/sessionStorage">SessionStorage</a>
-
-## Social
-
-- Website - [Soon](Soon)
-- Frontend Mentor - [@dmaotech](https://www.frontendmentor.io/profile/dmaotech)
-- Twitter - [Soon](Soon)
